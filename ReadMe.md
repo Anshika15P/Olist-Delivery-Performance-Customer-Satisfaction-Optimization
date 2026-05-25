@@ -1,0 +1,73 @@
+# Olist E-commerce Delivery Performance Analysis
+
+## Project Overview
+This project analyses delivery performance on the Olist e-commerce platform with the objective of identifying delay patterns, regional bottlenecks, and their impact on customer satisfaction.
+
+The analysis combines exploratory data analysis, feature engineering, machine learning, and dashboard-based storytelling to simulate an industry-style analytics workflow.
+
+
+## Business Problem
+Delayed deliveries directly affect customer trust, satisfaction, and repeat purchases in e-commerce platforms.
+
+This project addresses the following questions:
+- How frequently do delivery delays occur?
+- Which regions experience the highest delivery delays?
+- How are delays distributed across delivery timelines?
+- What is the impact of delayed deliveries on customer ratings?
+- Can delivery delays be predicted using historical order features?
+
+
+##  Dataset
+The project uses the publicly available **Olist Brazilian E-commerce Dataset** from Kaggle, which includes:
+- Orders and delivery timelines
+- Customer locations
+- Order statuses
+- Customer reviews
+
+
+##  Methodology
+
+### 1. Data Preparation & Feature Engineering
+- Cleaned and merged multiple datasets
+- Engineered delivery time and delay indicators
+- Handled missing values and inconsistent timestamps
+
+### 2. Exploratory Data Analysis (Python)
+- Analysed order status distribution
+- Examined delivery time spread and delay frequencies
+- Identified high-delay states and regional patterns
+
+### 3. Machine Learning
+- Built a classification model to predict delivery delays
+- Evaluated model performance using precision, recall, and F1-score
+- Analysed feature importance to interpret key delay drivers
+
+### 4. Dashboard & Storytelling (Tableau)
+- Designed an interactive dashboard for executive-level insights
+- Visualised delivery performance, delay patterns, and customer impact
+- Focused on clarity, comparisons, and decision-oriented visuals
+
+
+##  Interactive Tableau Dashboard
+**Explore the full interactive dashboard here**:  
+**🔗 https://public.tableau.com/views/Book1_17705500538740/Dashboard2**
+
+
+##  Key Insights
+- Over 90% of orders are delivered on time, indicating strong overall operational efficiency
+- A small subset of regions contributes disproportionately to delivery delays
+- Delivery delays follow a long-tail distribution with extreme outliers
+- Delayed deliveries are associated with lower average customer ratings
+
+
+## Tools & Technologies
+- Python (Pandas, NumPy, Scikit-learn)
+- Tableau Public
+- VS Code
+- Git & GitHub
+
+
+## Deliverables
+- Python notebooks and scripts for data analysis and modeling
+- Interactive Tableau dashboard for business insights
+- GitHub repository for reproducibility and documentation
