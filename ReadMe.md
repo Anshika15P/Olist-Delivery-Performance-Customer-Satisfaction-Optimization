@@ -50,7 +50,7 @@ The project uses the publicly available **Olist Brazilian E-commerce Dataset** f
 
 ##  Interactive Tableau Dashboard
 **Explore the full interactive dashboard here**:  
-**🔗 https://public.tableau.com/views/OlistDeliveryPerformanceSummaryCustomerSatisfactionAnalysis/DeliveryDelayCustomerImpactAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link**
+**🔗 https://public.tableau.com/views/OlistDeliveryPerformanceSummaryCustomerSatisfactionAnalysis/ExecutiveDeliveryOverview?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link**
 
 
 ##  Key Insights
